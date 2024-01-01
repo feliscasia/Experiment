@@ -1,3 +1,3 @@
 # Experiment
 
-A trial on developing a game together in unity using GitHub :-)
+A trial on developing a game together in unity using GitHub ... TBC
